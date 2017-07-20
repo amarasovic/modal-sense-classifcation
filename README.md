@@ -3,7 +3,6 @@ Does a modal verb express possibility, permission or capability?
 
 Ana Marasovic and Anette Frank. (2016):
 [Multilingual Modal Sense Classification using a Convolutional Neural Network](http://www.aclweb.org/anthology/W/W16/W16-1613.pdf). Proceedings of the 1st Workshop on Representation Learning for NLP, Berlin, Germany, pp. 111--120, Association for Computational Linguistics.
-<p align="center"><img src="figs/mr_lstm.png" width="400" align="middle" alt="LSTM-Siamese mention-ranking model"></p>
 
 ## Requirements
 
