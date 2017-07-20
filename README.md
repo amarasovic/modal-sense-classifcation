@@ -15,16 +15,16 @@ Internally we used following abbreviations,
 - classifier1, classifier2, classifier3 - MPQA, EPOS+MPQA, EPOS
 Please refer to the paper what MPQA, EPOS+MPQA, EPOS are.
 
-Not everything is provided with in the repo. More precisely,
+Not everything is provided with the repo. More precisely,
 1) there is no code for loading dependency-based embeddings (trivial)
-2) words which don?t have a pre-trained embedding are not randomly initializing with a random vector sampled from uniform distribution which has the same variance as the pre-trained embeddings (trivial)
+2) words which don't have a pre-trained embedding are not randomly initializing with a random vector sampled from uniform distribution which has the same variance as the pre-trained embeddings (trivial)
 3) there is no code for micro-average calculation (trivial)
 4) no code for baselines 
 5) no code for significance testing (trivial)
 6) no code for semantic feature detectors
 7) no code for WSD
 
-The code is re-factorize after the submission and results could differ from the reported results. The script how to get individual results and macro-average can be found in bash_scripts/epos_eng.sh. If you get results that differ in large margins, please contact me.
+The code is re-factorized after the submission and results could differ from the reported results. The script how to get individual results and macro-average can be found in `bash_scripts/epos_eng.sh`. If you get results that differ in large margins, please contact me.
 
 The code is hard-coded with paths to the English datasets, change paths for experiments on German data.
 
