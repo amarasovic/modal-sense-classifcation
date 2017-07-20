@@ -1,4 +1,4 @@
-# Multilingual Modal Sense Classification using a Convolutional Neural Network. 
+# Multilingual Modal Sense Classification using a Convolutional Neural Network 
 Does a modal verb express possibility, permission or capability?
 
 Ana Marasovic and Anette Frank. (2016):
