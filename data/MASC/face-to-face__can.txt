@@ -1,0 +1,68 @@
+We can write up	dy
+So is - This is - A situation are - is all the things which can be happening right now ?	ep
+And then we can r- uh	dy
+And with this you can specify the - what 's happening in the situation , and what 's happening	dy
+why I think it 's a little bit more complex or why - why we can even think about it as an interesting problem in and of itself is -	dy
+And since we have a finite number of constructions that we can deal with , we could have a finite number of nodes .	dy
+But since we can only deal with a finite amount of stuff -	dy
+But we believe that all the decision nodes are - can be relevant for the Where - Is ,	ep
+You can come in if you want .	de
+I do n't think it can handle French , but anyway .	dy
+No , I can - I can do the Timing node in here , too , and say " O_K .	dy
+No , I can - I can do the Timing node in here , too , and say " O_K .	dy
+Oh , I see why we ca n't do that .	dy
+So is the only r- reason we can make all these smaller Bayes - nets , because we know we can only deal with a finite set of constructions ?	dy
+So is the only r- reason we can make all these smaller Bayes - nets , because we know we can only deal with a finite set of constructions ?	dy
+Is the reason that we can make a node f- or - O_K .	dy
+we can design it is cuz we know	dy
+We ca n't expect this to be sort of at O _ point	de
+You can compute , uh , the posterior probability of one subset of the nodes , given	dy
+I ca n't figure out how to get the	dy
+So we can figure this out .	dy
+I guess we can ,	dy
+Because then , once we have it sort of up and running , then we can start you know ,	dy
+Yeah , I can worry about the ontology interface and you can - Keith can worry about the discourse .	dy
+Yeah , I can worry about the ontology interface and you can - Keith can worry about the discourse .	dy
+Yeah , I can worry about the ontology interface and you can - Keith can worry about the discourse .	dy
+O_K , this , I can - I can get it in here .	dy
+O_K , this , I can - I can get it in here .	dy
+I can get it in here , so th- We have the , uh ,	dy
+that - that we can - that we have one node per construction .	dy
+And then , of course , the c - I guess , maybe there can be the -	ep
+you know , you can probably count -	dy
+How it can be finite , again ?	dy
+Nah , I ca n't think of a way it would be infinite .	dy
+Well , you can come up with new constructions .	dy
+We can end the meeting .	dy
+Bandw- Yeah , so you ca n't do better than something .	dy
+Um , they 're more directional , a little better error - uh , noise cancellation , and also you can really get it right in front of your mouth , like this , whereas that one , to avoid breath noise , you really have to put it at - to the side .	dy
+So that 's why I was saying getting more Sony ones is trivial , because we can just go out and buy them .	dy
+And then they can just unplug those from the -	dy
+I mean , the Sony ones are expensive because they 're proprietary , so they can charge whatever they want .	dy
+Also , we 're pro- I wanna double check with Morgan , he did say yes before I went to Japan on buying another wireless system so that we can go all wireless , instead of the mix of wired and wireless .	dy
+And this way we can get a door-slam in the uh - in the transcript file .	dy
+Can I - can I just mention something ?	de
+probably , but - but as you do that you can also just run the -	dy
+And then I check , you know , if this works , so , you can use the -	dy
+can seek	dy
+If you can operate on the full -	dy
+So you - but you can switch that any time you want , right ?	dy
+Yeah , one - one can imagine that that might be problematic .	dy
+Yeah , one can imagine the problems that that would engender .	dy
+the phone loop adaptation which does n't actually require prior recognition paths and - and so this is not the best you can do with adaptation , but it gives you sort of a first	dy
+and then , when I combined them - I can actually combine them with	dy
+And then maybe another up - I do n't know how much the C _ zero normalization business really matters I ca n't it see , I mean ca n't see it - the	dy
+And then maybe another up - I do n't know how much the C _ zero normalization business really matters I ca n't it see , I mean ca n't see it - the	dy
+Ca- can you run the S _ R _ I - Just as an experiment , run the S _ R _ I front-end without vocal tract norma- normalization , and see how much difference it makes ?	dy
+But I can certainly try the S _ R _ I front-end without uh V _ T _ L.	dy
+uh is suboptimal , but can be possibly remedied by you know moving the	dy
+One is that Chuck is working on uh getting the tandem features um into a form that we can train the tandem - the system on the tandem features .	dy
+uh retraining the models on the large training set that we usually use to build our evaluation models and then we can -	dy
+And - and as a preliminary just sort of diagnostic experiment we can - I can certainly run a S _ R _ I system without V _ T _ L	dy
+You can really tell from the prosody where it goes .	dy
+Well if an unblacked out channel is zero , is actually spitting out zeros , you can be pretty sure it 's off .	dy
+But is there some - We can collectively think of some - of some mechanism that might reduce the risk of - of just -	dy
+You can see whether your mike is working or not .	dy
+It - it can beep if one of the channels dies while recording .	dy
+Well , we can think about what to do about it , but it -	dy
+It 's pretty clear we can detect it , so .	dy

@@ -1,0 +1,45 @@
+I know that during difficult times , sometimes words emerge that can help people through difficult times .	dy
+I believe that you are sincere man and know that you must be broken hearted , but I hope that this article can help you lead a dispirted workforce to see things more clearly .	dy
+You can understand , then , my anticipation at the prospect of spending part of an afternoon with Stockdale , who happened to be at the Hoover Institute across the street from my office when I taught at Stanford .	dy
+You must never confuse faith that you will prevail in the end - which you can never afford to lose - with the need for discipline to confront the most brutal facts of your current reality , whatever they might be . "	dy
+What can we potentially do better than any other company in the world ?	dy
+What can best drive our economic engine ?	dy
+Used correctly , this recession can be a defining time in your firm 's history that , in retrospect , you would not trade .	dy
+to accompany the legislative package so that we can communicate the package effectively .	dy
+We 're in a meeting with folks today where we can discuss getting that side of things going and Karen Denne has contacted Marathon and they 're pondering some things that we can do in the near term .	dy
+We 're in a meeting with folks today where we can discuss getting that side of things going and Karen Denne has contacted Marathon and they 're pondering some things that we can do in the near term .	dy
+I can be best reached to day by pager at 888.916 .7184 .	dy
+In those materials we will also identify existing bills that we believe can easily accommodate our proposed language .	dy
+Please do not hesitate to contact m e if you would like to discuss these materials further , or if there is anythi ng else that I can do to assist you .	dy
+The State should ensure that local , parochial interests can not block otherwise beneficial distributed generation projects .	dy
+Other reasons for reduced supply for the Summer of 2001 include the early draw-down of reservoirs in the continual effort to manage California 's seve re supply-demand gap ; emissions restrictions on existing plants ; and a reduced number of customers who can be curtailed under their contracts with the utilities .	dy
+We wil l deliver to your office tomorrow specific legislative language and existing bills that we believe can accommodate our proposals .	dy
+Our suggested amendments can improve tho se efforts by further addressing the difficulties that project developers face in securing air emission reduction credits to meet the air permit requirements included in the CEC 's certification requirements .	dy
+This can be accomplished mo st effectively and quickly in two ways :	dy
+California can return the utilities to financial solvency by implementing a series of staged rate increases .	dy
+In addition , the magnitude of the rate increase can be reduced in two ways : First , the utilities could absorb some portion of their existing debt in recognition of the risk they accepted when they agreed to the structure of AB 1890 .	dy
+Second , California can " net "	dy
+If this is a good time for you , please respond so we can answer any questions you may have and confirm your fit with these members of your community that need help with making the right decision on such an important matter as Real Estate .	dy
+We are prepared to make your initial file cost effective so you can see how our file can support you in growing your business .	dy
+We are prepared to make your initial file cost effective so you can see how our file can support you in growing your business .	dy
+If you feel this can fit into your marketing program or have any questions , you may contact me directly by phone at 855 - 702 - 8077 or reply to this email .	ep
+> > Any user of Pine 3.05 ( and as far as I can tell 3.07 or 2 . x ) > > can shoot themself in the foot ( head if you prefer ) by setting > > character-set = Zeldas _ private _ codepage .	dy
+> > Any user of Pine 3.05 ( and as far as I can tell 3.07 or 2 . x ) > > can shoot themself in the foot ( head if you prefer ) by setting > > character-set = Zeldas _ private _ codepage .	dy
+Although I used this to defend my action of having used an illegitimate CHARSET , I do NOT think that all " user can shoot themself in the foot "	dy
+I do n't think this is making sense and I ca n't find the words .	dy
+, then you can ( must ; I 'm arguing for a definition here , not an explanation ) assume that SMTP will carry it as ISO- 8859 - 1 , BUT THE RECEIVING ( or sending ) HOST MIGHT NOT .	dy
+> and mailers which are trying > to adopt MIME right away can not be faulted for deferring > development of such functionality for a while .	de
+It can almost replace RiceMAIL .	dy
+It is best for a computer to use the code of interchange internally , but all computers in the world can not be modified overnight .	dy
+But that 's not sure , like for XDR which can be used from many levels to convert CPU data to line format .	dy
+One can not increase complication eternally .	dy
+If you write anything you want me to read , please make a personal reply and allow for two weeks before I can read it .	dy
+A similar example can be found in equation sub-numbering : equations ( 4 a ) and ( 4 b ) are followed by a paragraph of text , followed by equations ( 4 c ) and ( 4 d ) .	dy
+If we add an attribute to the start tag we can achieve this : | < fig id = fig 4 comp = " a b "	dy
+If Dave can let me know several days in advance when a telephone conference occurs ( on Monday evenings ) I can try to attend . But there will be Mondays on which I am not at home from 7 pm to midnight ( that 's 12 noon to 5 pm EST , since we 're in daylight saving time as of last weekend ) . Regards , Nico	dy
+If Dave can let me know several days in advance when a telephone conference occurs ( on Monday evenings ) I can try to attend . But there will be Mondays on which I am not at home from 7 pm to midnight ( that 's 12 noon to 5 pm EST , since we 're in daylight saving time as of last weekend ) . Regards , Nico	dy
+> > I can see value in allowing prefix and postfix operators to act as > > operator embellishments , for instance to add accents to operators or > > to change their relative size , or position .	dy
+Fine , but that also applies to : a & big + b with the information that & big can act as a prefix embellishment operator this yields : { a { & big + } b }	dy
+If each operator has a property indicating that it can act as an embellishment on other operators , then we can use this fact to make the above parse as { & bold + } 2 in preference to the interpretation of & bold as a normal prefix operator .	dy
+If each operator has a property indicating that it can act as an embellishment on other operators , then we can use this fact to make the above parse as { & bold + } 2 in preference to the interpretation of & bold as a normal prefix operator .	dy
+Extending the dictionary to define whether each symbol can act as prefix , infix or postfix embellishment operators seems a straightforward addition .	dy

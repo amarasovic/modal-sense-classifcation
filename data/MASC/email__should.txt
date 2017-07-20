@@ -1,0 +1,20 @@
+California should ensure that this requirement applies to all generation facilities , including distributed generation .	de
+To the greatest extent possible , California should shift control over interconnection away from th e utility and place that control with the California ISO .	de
+Solution : California should ensure that the executive orders ( D- 22 - 01 thru D- 26 - 01 ) issued by the Governor to expedite plant siting and maximize plant output apply equally to smaller scale , " distributed generation "	de
+The State should ensure that local , parochial interests can not block otherwise beneficial distributed generation projects .	de
+It is our view that California should view the CEC 's " rosy scenario " with considerable skepticism .	de
+California should therefore begin immediately to phase the utility out of the procurement function entirely , with the goal of having all customers served by a non-utility provider within 36 months .	de
+To execute the transition , California should hold a series of competitive solicitations over the 36 - month period in which competing service providers would bid for the right to serve segments of utility load .	de
+California should design those rate increases with the dual goal of returning the utilities to solvency without " shocking "	de
+Specifically , I feel ( quite strongly ) that the user should be able to specify any old charset and have display at least attempted at the other end .	de
+( which the use should have control over ) and " charsets "	de
+( which the user should leave alone ) .	de
+I maintain that CHARSET specification should be omitted when feasible .	de
+And this thinking , carried into MIME ( thus this should be kicked BACK TO the IETF- 822 list , but I refrain ) , shows up in the use of CHARSET = ISO- 8859 - 1 rather than CHARACTER _ SET = Latin- 1 .	de
+The _ most _ important _ point _ is that a single common representation code be defined _ for _ the _ line _ ( suiting the purpose , namely to cover all national languages in one single way ) and that people be instructed that every bit of text should travel in that code on the wire , whatever _ the _ protocol _ is .	de
+The next equation should have an ( id , label ) pair like this : ( eq $ 1 , label ( eq 1 ) ' ) where | eq $ 1 | is the unique | id | assigned to equation ~ ( 1 ' ) , and | label ( eq 1 ) | stands for the label of the equation with id = eq 1 .	de
+And the next equation , ( 4 ) , should have an ( id , label ) pair like this : ( eq 4 , 4 )	de
+> footnotes should be ... < / l > A paragraph of text comes between the two numbered lists . < l > < li id = " liC "	de
+For those of you who think this is covered by Unicode , Computer Modern fonts and the AMS fonts ( although the latter * are * very useful ) , should study pages 47 - 50 of the following document ftp://ftp.elsevier.nl/pub/sgml/artdoc.ps.gz	de
+5 . Superiors / inferiors : I think we should add something about vertical position of inferiors in mathematics and chemistry ( these differ , as some of you may know ) .	de
+> right and sometimes does n't are probably beyond most authors , I think we > should avoid them .	de
