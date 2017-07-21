@@ -31,7 +31,7 @@ The code is hard-coded with paths to the English datasets, change paths for expe
 
 ## Reference
 
-If you make use of the contents of this repository, we appreciate citing [the following paper](http://aclweb.org/anthology/W/W16/W16-1613.pdf):
+If you make use of the contents of this repository, please cite [the following paper](http://aclweb.org/anthology/W/W16/W16-1613.pdf):
 
 ```
 @inproceedings{marasovic2016msc,
