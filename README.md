@@ -36,7 +36,7 @@ If you make use of the contents of this repository, please cite [the following p
 ```
 @inproceedings{marasovic2016msc,
   title={{Multilingual Modal Sense Classification using a Convolutional Neural Network}},
-  author={Marasovic, Ana and Frank, Anette},
+  author={Marasovi\'{c}, Ana and Frank, Anette},
   booktitle={Proceedings of the 1st Workshop on Representation Learning for NLP},
   year={2016}
 }
